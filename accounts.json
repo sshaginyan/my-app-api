@@ -3,7 +3,7 @@
     "savings": "$10,000.00",
     "credit_card": "-$3,000.00",
     "credit_card_lock": false,
-    "transations": [
+    "transactions": [
         {
             "name": "transaction_1",
             "amount": "$16.61"
