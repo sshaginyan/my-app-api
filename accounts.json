@@ -1,4 +1,27 @@
 {
     "checking": "$5,000.00",
-    "credit_card": "-$3,000.00"
+    "credit_card": "-$3,000.00",
+    "credit_card_lock": false,
+    "transations": [
+        {
+            "name": "transaction_1",
+            "amount": "$16.61"
+        },
+        {
+            "name": "transaction_2",
+            "amount": "$15.61"
+        },
+        {
+            "name": "transaction_3",
+            "amount": "$17.61"
+        },
+        {
+            "name": "transaction_4",
+            "amount": "$18.61"
+        },
+        {
+            "name": "transaction_5",
+            "amount": "$19.61"
+        }
+    ]
 }
