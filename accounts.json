@@ -1,5 +1,6 @@
 {
-    "checking": "$5,000.00",
+    "checkings": "$5,000.00",
+    "savings": "$10,000.00",
     "credit_card": "-$3,000.00",
     "credit_card_lock": false,
     "transations": [
